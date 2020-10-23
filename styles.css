@@ -1,0 +1,8 @@
+.category-button {
+    height: 2.5em;
+    transition: height 0.5s;
+}
+
+.category-button:hover {
+    height: 4em;
+}
