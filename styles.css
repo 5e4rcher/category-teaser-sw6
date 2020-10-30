@@ -6,3 +6,16 @@
 .category-button:hover {
     height: 4em;
 }
+
+.category-row .col {
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    max-width: 10em;
+}
+
+.category-row {
+    justify-content: space-evenly;
+}
+
+/* //mediaquery */
+    width: 10em;
